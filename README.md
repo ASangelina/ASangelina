@@ -1,4 +1,4 @@
-### Olá! Eu sou a Angelina Angelina👋
+### Olá! Eu sou a Angelina👋
 Engenheira de Software pela Udesc!</br>
 Desenvolvedora Full Stack no Escritório Modelo de Pesquisa e Desenvolvimento de Software (EMPDS).
 
