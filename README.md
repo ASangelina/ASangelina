@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Angelina👋
 Engenheira de Software pela Udesc!</br>
-Desenvolvedora Full Stack no Escritório Modelo de Pesquisa e Desenvolvimento de Software (EMPDS).
+Professora Substituta de Informática no IFC.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelina-siqueira/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angelina_kaay/)
