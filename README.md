@@ -5,9 +5,15 @@ Desenvolvedora full stack na Gdoor Zucchetti.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelina-siqueira/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angelina_kaay/)
 
-![Angelina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASangelina&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASangelina&layout=compact&theme=dark)
+<div>
+ <img src="https://github-readme-stats.vercel.app/api?username=ASangelina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&show_icons=true&bg_color=00000000&rank_icon=github&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+</div>
+
+<div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ASangelina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&show_icons=true&bg_color=00000000&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 
 
 
@@ -39,4 +45,14 @@ Desenvolvedora full stack na Gdoor Zucchetti.
        <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
        <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div><br/>
+
+###
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASangelina/ASangelina/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ASangelina/ASangelina/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ASangelina/ASangelina/output/pacman-contribution-graph.svg">
+</picture>
 
