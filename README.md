@@ -1,4 +1,4 @@
-### Olá! Eu sou a Angelina👋
+### Angelina Siqueira
 Engenheira de Software pela Udesc!</br>
 Desenvolvedora full stack na Gdoor Zucchetti.
 
