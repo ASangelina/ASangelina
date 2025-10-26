@@ -83,3 +83,7 @@ Desenvolvedora full stack na Gdoor Zucchetti.
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ASangelina/ASangelina/output/pacman-contribution-graph.svg">
 </picture>
 
+### Hacktoberfest 2025
+
+[![An image of @asangelina's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asangelina)](https://holopin.io/@asangelina)
+
